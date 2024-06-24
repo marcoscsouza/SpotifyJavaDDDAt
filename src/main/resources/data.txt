@@ -1,0 +1,17 @@
+INSERT INTO PLANO(id, descricao, nome, ativo, valor) VALUES('089eea14-4989-46ba-b370-dac88dbdb98b', 'Plano Basico', 'Plano Basico', TRUE, 23.45);
+
+
+{
+    "nome": "Test",
+    "senha": "123456",
+    "cpf": "13209711054",
+    "email": "marcos@gmail.com",
+    "numeroCartao": "1231121231",
+    "limite": "1000",
+    "cartaoAtivo": "true",
+    "idPlano": "089eea14-4989-46ba-b370-dac88dbdb98b"
+}
+
+numero cartão - 5574 3702 5053 0906
+validade - 20/12/2025
+cvv - 167
